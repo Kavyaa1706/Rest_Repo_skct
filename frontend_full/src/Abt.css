@@ -1,0 +1,64 @@
+.us{
+    height:660px;
+    width: 1600px;
+    margin-left: -5.5%;
+}
+.atu{
+    position: absolute;
+    margin-left:72% ;
+    margin-top: -40%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+    font-weight: 600;
+}
+.welcome{
+    position: absolute;
+    text-align: left;
+    margin-top: -33%;
+    margin-left: 65%;
+    font-weight: 500;
+}
+.welcome1{
+    position: absolute;
+    text-align: left;
+    margin-top: -20%;
+    margin-left: 65%;
+    font-weight: 500;
+}
+.wing{
+    position: absolute;
+    height: 20px;
+    margin-top: -32.55%;
+    margin-left: 12.5%;
+}
+.wing1{
+    position: absolute;
+    height: 20px;
+    margin-top: -19.55%;
+    margin-left: 12.5%;
+}
+.icon{
+    position: absolute;
+    height: 40px;
+    margin-top: -7%;
+    margin-left: 16%;
+}
+.icon1{
+    position: absolute;
+    height: 40px;
+    margin-top: -7%;
+    margin-left: 24%;
+}
+.icon2{
+    position: absolute;
+    height: 40px;
+    margin-top: -7%;
+    margin-left: 32%;
+    border-radius: 30px;
+}
+.icon3{
+    position: absolute;
+    height: 40px;
+    margin-top: -7%;
+    margin-left: 40%;
+}

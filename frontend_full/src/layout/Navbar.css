@@ -1,0 +1,48 @@
+.navbar-brand{
+    font-size:1.8rem ;
+    margin-left: 1%;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container-fluid {
+    background-color: #000;
+    height: 70px;
+}
+.navbar {
+    background-color: black;
+}
+.btn-outline-light{
+    margin-right: 3%;
+    
+}
+.btn-outline-light:hover{
+    background-color: green;
+}              
+.abt{
+    color: #fff;
+    font-size: 1.5rem;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.kal{
+    color: #fff;
+    font-size: 1.5rem;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 25%;
+}
+.fli{
+    color: #fff;
+    font-size: 1.5rem;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.lgn{
+    color: #fff;
+    font-size: 1.5rem;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
